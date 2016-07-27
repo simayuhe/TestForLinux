@@ -1,0 +1,14 @@
+﻿生成启动时间为 2016/3/14 16:09:52。
+     1>项目“D:\Program Files (x86)\Microsoft Visual Studio 12.0\mywork\test_for_matlabengine\test_for_matlabengine\test_for_matlabengine.vcxproj”在节点 2 上(Build 个目标)。
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(355,5): warning MSB8003: Could not find WindowsSDKDir variable from the registry.  TargetFrameworkVersion or PlatformToolset may be set to an invalid version number.
+     1>ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /Zi /nologo /W3 /WX- /Od /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _USING_V110_SDK71_ /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Debug\\" /Fd"x64\Debug\vc120.pdb" /Gd /TP /errorReport:prompt mymain.cpp
+         mymain.cpp
+       Link:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Program Files (x86)\Microsoft Visual Studio 12.0\mywork\test_for_matlabengine\x64\Debug\test_for_matlabengine.exe" /INCREMENTAL /NOLOGO /LIBPATH:"D:\Program Files\MATLAB\R2014a\extern\lib\win32\microsoft" /LIBPATH:"D:\Program Files\MATLAB\R2014a\extern\lib\win64\microsoft" libmat.lib libmx.lib libmex.lib libeng.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\Program Files (x86)\Microsoft Visual Studio 12.0\mywork\test_for_matlabengine\x64\Debug\test_for_matlabengine.pdb" /SUBSYSTEM:CONSOLE,"5.02" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Program Files (x86)\Microsoft Visual Studio 12.0\mywork\test_for_matlabengine\x64\Debug\test_for_matlabengine.lib" /MACHINE:X64 x64\Debug\mymain.obj
+         test_for_matlabengine.vcxproj -> D:\Program Files (x86)\Microsoft Visual Studio 12.0\mywork\test_for_matlabengine\x64\Debug\test_for_matlabengine.exe
+     1>已完成生成项目“D:\Program Files (x86)\Microsoft Visual Studio 12.0\mywork\test_for_matlabengine\test_for_matlabengine\test_for_matlabengine.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.88
